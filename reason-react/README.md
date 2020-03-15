@@ -13,7 +13,6 @@ open http://localhost:8000
 # Bundle for Production
 
 ```sh
-npm run build
-npm run prod
-open indexProduction.html
+npm run deploy
+open dist/index.html
 ```

@@ -1,5 +1,7 @@
 # Pokeweight
 
+<img src="screenshot.png" width="500px">
+
 This is a little quiz to test if you can choose which Pokemon weighs more than
 another. Data is fetched from the [PokeAPI](https://pokeapi.co) directly.
 
